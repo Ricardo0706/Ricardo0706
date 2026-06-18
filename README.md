@@ -1,15 +1,15 @@
 ## Hi there, I'm Ricardo Mutomba Augusto 👋
 
 - 🎓 Computer Science and Engineering Student at ITMO University 
-- 🌍 Originally from Angola 🇦🇴| Currently studying in Russia
-- 💻 Aspiring Backend Software Engineer passionate about building scalable, efficient, and reliable software solutions.
-
+- 🌍 Angola 🇦🇴| Russia
+- 💻 Backend Development | Java | Spring Boot | PostgreSQL
+- 🚀 Building reliable software solutions and continuously improving my engineering skills
+- 📫 Open to Internship and Junior Backend Developer Opportunities
 <div>
   
-  <a href="https://github.com/Ricardo0706">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ricardo0706&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
-  <img heigth="180em" src="htpps://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo0706&layout=compact&langs_count=16&theme=dracula"/> 
-  </a>
+  <a href="https://github.com/Ricardo0706"> </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ricardo0706&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo0706&layout=compact&langs_count=16&theme=dracula"/> 
 
 </div>
 
@@ -24,8 +24,7 @@
 
 </div>
 
-##
-
+<h2>Contacts</h2>
 <div>
 <a href="https://instagram.com/ricas.it" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"> </a>
 <a href="https://linkedin.com/in/ricardoce0706" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a>
