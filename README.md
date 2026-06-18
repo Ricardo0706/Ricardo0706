@@ -1,7 +1,7 @@
 ## Hi there, I'm Ricardo Mutomba Augusto 👋
 
 - 🎓 Computer Science and Engineering Student at ITMO University 
-- 🌍 Angola 🇦🇴| Russia
+- 🌍 Angola 🇦🇴| Russia 🇷🇺
 - 💻 Backend Development | Java | Spring Boot | PostgreSQL
 - 🚀 Building reliable software solutions and continuously improving my engineering skills
 - 📫 Open to Internship and Junior Backend Developer Opportunities
