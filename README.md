@@ -7,9 +7,11 @@
 - 📫 Open to Internship and Junior Backend Developer Opportunities
 <div>
   
- <a href="https://github.com/Ricardo0706"> </a>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ricardo0706&show_icons=true&theme=dracula&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo0706&layout=compact&theme=dracula&hide_border=true"/>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ricardo0706&show_icons=true&theme=dracula&hide_border=true"/>
+
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo0706&layout=compact&langs_count=8&theme=dracula&hide_border=true"/>
+</p>
 
 
 </div>
