@@ -65,7 +65,7 @@ I'm a Computer Science and Engineering student at **ITMO University**, focused o
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
 
-<a href="https://www.youtube.com/@ricardoaugusto0706">
+<a href="https://www.youtube.com/@ricas-it">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
 </a>
 
