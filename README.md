@@ -1,7 +1,8 @@
-# 👋 Hi, I'm Ricardo Mutomba Augusto
+<p align="center">
+  <img src="./assets/banner.svg" alt="Hey, I'm Ricardo. Building reliable backend systems." width="100%"/>
+</p>
 
 ### 🎓 Computer Science & Engineering Student @ ITMO University
-
 ### 💻 Aspiring Backend Developer | Java • Spring Boot • PostgreSQL
 
 I'm a Computer Science and Engineering student at **ITMO University**, focused on building reliable backend applications and improving my software engineering skills.
