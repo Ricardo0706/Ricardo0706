@@ -1,0 +1,65 @@
+<svg width="1000" height="340" viewBox="0 0 1000 340" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Hey, I'm Ricardo. Building reliable backend systems.">
+  <style>
+    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; }
+    .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; }
+    @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.3; } }
+    .pulse { animation: pulse 2s ease-in-out infinite; }
+  </style>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1000" y2="340" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1a1a1c"/>
+      <stop offset="0.55" stop-color="#0c0c0d"/>
+      <stop offset="1" stop-color="#08090a"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(960 340) rotate(180) scale(520 260)">
+      <stop offset="0" stop-color="#10b981" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#10b981" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#ffffff" stroke-opacity="0.035" stroke-width="1"/>
+    </pattern>
+    <clipPath id="card"><rect width="1000" height="340" rx="26"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect width="1000" height="340" fill="url(#bg)"/>
+    <rect width="1000" height="340" fill="url(#grid)"/>
+    <rect width="1000" height="340" fill="url(#glow)"/>
+  </g>
+  <rect x="0.5" y="0.5" width="999" height="339" rx="25.5" stroke="#ffffff" stroke-opacity="0.08"/>
+
+  <!-- status pill -->
+  <rect x="36" y="36" width="372" height="38" rx="19" fill="#ffffff" fill-opacity="0.04" stroke="#ffffff" stroke-opacity="0.12"/>
+  <circle class="pulse" cx="60" cy="55" r="5" fill="#10b981"/>
+  <text class="mono" x="78" y="60" font-size="14" fill="#d4d4d8">open to internships · Saint Petersburg</text>
+
+  <!-- headline -->
+  <text class="sans" x="36" y="160" font-size="58" font-weight="800" fill="#ffffff" letter-spacing="-1.5">Hey, I'm Ricardo.</text>
+
+  <!-- prompt -->
+  <text class="mono" x="36" y="224" font-size="24" fill="#71717a">~</text>
+  <text class="mono" x="62" y="224" font-size="24" font-weight="700" fill="#10b981">&gt;</text>
+  <text class="mono" x="92" y="224" font-size="24" fill="#f4f4f5">building reliable backend systems</text>
+
+  <text class="mono" x="36" y="266" font-size="16" fill="#71717a">Java · Spring Boot · PostgreSQL · ITMO University</text>
+
+  <!-- terminal window -->
+  <rect x="652" y="40" width="312" height="218" rx="16" fill="#141516" stroke="#ffffff" stroke-opacity="0.1"/>
+  <circle cx="678" cy="65" r="6" fill="#ef4444"/>
+  <circle cx="700" cy="65" r="6" fill="#f59e0b"/>
+  <circle cx="722" cy="65" r="6" fill="#10b981"/>
+  <text class="mono" x="940" y="70" font-size="13" fill="#71717a" text-anchor="end">~/stack</text>
+  <line x1="652" y1="86" x2="964" y2="86" stroke="#ffffff" stroke-opacity="0.08"/>
+
+  <circle class="pulse" cx="682" cy="116" r="5" fill="#10b981"/>
+  <text class="mono" x="702" y="121" font-size="18" fill="#e4e4e7">java</text>
+  <circle cx="682" cy="153" r="5" fill="#10b981"/>
+  <text class="mono" x="702" y="158" font-size="18" fill="#e4e4e7">spring-boot</text>
+  <circle cx="682" cy="190" r="5" fill="#10b981"/>
+  <text class="mono" x="702" y="195" font-size="18" fill="#e4e4e7">postgresql</text>
+  <circle cx="682" cy="227" r="5" fill="#10b981"/>
+  <text class="mono" x="702" y="232" font-size="18" fill="#e4e4e7">docker</text>
+
+  <text class="mono" x="964" y="310" font-size="15" fill="#71717a" text-anchor="end">github.com/Ricardo0706</text>
+</svg>
