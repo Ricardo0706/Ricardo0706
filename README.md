@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="Hey, I'm Ricardo. Building reliable backend systems." width="100%"/>
+  <img src="https://raw.githubusercontent.com/Ricardo0706/Ricardo0706/main/assets/banner.svg" alt="Hey, I'm Ricardo. Building reliable backend systems." width="100%"/>
 </p>
 
 ### 🎓 Computer Science & Engineering Student @ ITMO University
